@@ -1,13 +1,14 @@
-body {
-    background-color: yellow;
-    text-align: center;
-
+#captainamerica {
+    width: 250px;
+    height: 200px;
 }
 
-#para {
-    border-color: darkorange;
+#thor {
+    width: 250px;
+    height: 200px;
+}
+#blackwidow {
+    width: 350px;
+    height: 200px;
 }
 
-.links:hover {
-    background-color: chocolate;
-}
